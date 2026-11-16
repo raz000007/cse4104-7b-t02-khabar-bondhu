@@ -11,10 +11,10 @@ AI-Powered Food Donation and Redistribution Platform
 
 Official Team Name :	CSE4104-7B-T02
 
-1.	Rajorshi Roy           	11230121103     	Team Leader
-2.	Bushrat Jahan Rafa     	11230321259     	Member
-3.	Farhana Akter Ela      	11230321257	     Member
-4.	Maiesha Anjum          	11230321275	     Member
+1.	Rajorshi Roy           	11230121103     	(Team Leader)
+2.	Bushrat Jahan Rafa     	11230321259     	(Member)
+3.	Farhana Akter Ela      	11230321257	     (Member)
+4.	Maiesha Anjum          	11230321275	     (Member)
 
 
 
@@ -171,6 +171,7 @@ involved
 📌 Repository Structure:
 
 Khabar-Bondhu/
+
 |
 
 ├── CSE4104-7B-T02_Week01.zip
