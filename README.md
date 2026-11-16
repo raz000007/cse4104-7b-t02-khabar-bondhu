@@ -170,27 +170,29 @@ involved
 
 📌 Repository Structure:
 
-📂 Repository Structure
-
 Khabar-Bondhu/
 |
-│
-├── CSE4104-7B-T02_Week01.zip/
-|   |
-│   ├── CSE4104-7B-T02_Week01.pdf ( team details & Initial idea)
-│   
-│
-├── CSE4104-7B-T02_Week02.zip/
-│   ├── Project-Proposal.pdf
-│   ├── Project plan.pdf
-│   └── Team info.pdf
-│
-├── CSE4104-7B-T02_Week03.zip/
-│   ├── SRS.pdf
-│   ├── UseCaseDiagram.pdf
-│   ├── ERDiagram.pdf
-│   └── ArchitectureDiagram.pdf
-│
-│
-└── README.md
 
+├── CSE4104-7B-T02_Week01.zip
+
+      └── CSE4104-7B-T02_Week01.pdf
+│
+
+├── CSE4104-7B-T02_Week02.zip
+
+     ├── Project-Proposal.pdf
+
+     ├── Project-plan.pdf
+
+     └── Team-info.pdf
+   
+│
+├── CSE4104-7B-T02_Week03.zip
+
+      ├── SRS.pdf
+      ├── UseCaseDiagram.pdf
+      ├── ERDiagram.pdf
+      └── ArchitectureDiagram.pdf
+│
+
+└── README.md
