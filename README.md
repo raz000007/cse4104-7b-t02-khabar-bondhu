@@ -1,18 +1,35 @@
-Khabar Bondhu (KindMeal)
+📌 Project Title : Khabar Bondhu (KindMeal)
 
 AI-Powered Food Donation and Redistribution Platform
 
-  *Reducing Food Waste, Sharing Hope, Building a Better Future.*
+*Reducing Food Waste, Sharing Hope, Building a Better Future.*
+
+
+
+
+📌Team Informtion :
+
+Official Team Name :	CSE4104-7B-T02
+
+1.	Rajorshi Roy           	11230121103     	Team Leader
+2.	Bushrat Jahan Rafa     	11230321259     	Member
+3.	Farhana Akter Ela      	11230321257	     Member
+4.	Maiesha Anjum          	11230321275	     Member
+
+
+
+
+  
 
 📌 Project Overview :
 
-Khabar Bondhu (“Friend of Food”) is a web platform that rescues edible surplus food, brings less known institutions like small madrasas and orphanages into the limelight for donors, and allows donors to donate without any trouble, with all the transparency possible. Food providers (bakeries, shops, and events) put up surplus food on the website, volunteers pick up the food, and institutions acknowledge how much they received. People willing to help but too busy for that can get the whole process of donating managed by the team, after which a report will be provided to them with details and delivery proof. Three AI features support the platform: OCR-based expiry-date detection with safety flags, smart donor-to-institution matching, and a Bangla chatbot.
+Khabar Bondhu (“KindMeal”) is a web platform that rescues edible surplus food, brings less known institutions like small madrasas and orphanages into the limelight for donors, and allows donors to donate without any trouble, with all the transparency possible. Food providers (bakeries, shops, and events) put up surplus food on the website, volunteers pick up the food, and institutions acknowledge how much they received. People willing to help but too busy for that can get the whole process of donating managed by the team, after which a report will be provided to them with details and delivery proof. Three AI features support the platform: OCR-based expiry-date detection with safety flags, smart donor-to-institution matching, and a Bangla chatbot.
 
 📌 Problem Statement:
 
 There is excess packaged food close to expiry in many bakeries and stores. Moreover, food in excess remains after parties or weddings. On the other hand, many madrasas and orphanages do not come into the knowledge of donors and get less regular donations. Donors, willing to donate, don’t have the time to find a reliable institution, coordinate food provision and make sure that it has been done. No existing platform for donating food, whether international or local, provides food donation, lesser-known yet reliable institutions, donation by the donor with full transparency and Bangla language AI facility. (Invisibility of lesser-known institutions is an initial observation by us, which we will verify through a field study during the pilot stage.)
 
-📌 Objectives:
+📌 Project Objectives:
 
 •	Build a web platform that connects food donors, verified institutions, and donors who want to give but cannot manage the process themselves.
 •	Reduce avoidable food waste by rescuing safe packaged food and event surplus and delivering it to institutions in need.
@@ -22,6 +39,67 @@ There is excess packaged food close to expiry in many bakeries and stores. Moreo
 •	Provide a Bangla AI chatbot so non-technical users can use the platform in their own language.
 •	Provide transparency through records of collection, delivery and spending, with status updates to donors.
 •	Deliver a complete, deployed system with frontend, backend, database, authentication, AI integration, testing and documentation within the semester.
+
+
+📌  Key Features :
+
+1. Food Rescue
+
+- Publish available surplus food.
+- View food availability and details.
+- Manage food collection and pickup schedules.
+
+2. Institution Connect
+
+- Connect food donors with charitable institutions.
+- Manage institution profiles.
+- Support institution verification.
+- Share institutional food requirements.
+
+3. Managed Giving
+
+- Support structured donation management.
+- Maintain donation and expense records.
+- Improve transparency through donation reports.
+
+4. Need Map
+
+- Display relevant institutional food requirements.
+- Support location-based donor discovery.
+- Help donors identify nearby donation opportunities.
+
+5. AI-Powered Features
+
+OCR-Based Expiry Date Detection
+
+- Extract expiry-date information from food labels using OCR.
+
+Smart Donor-to-Institution Matching
+
+- Recommend suitable donor-institution connections based on relevant requirements and availability.
+
+Bangla AI Chatbot
+
+- Provide AI-powered assistance in Bangla.
+- Help users understand platform features and donation procedures.
+
+
+
+📌 Technology Stack :
+
+Category| Technology
+Frontend| React.js
+Main Backend| Node.js, Express.js
+Database| PostgreSQL
+AI Backend| Python, FastAPI
+AI Integration| Gemini / OpenAI (Final selection pending)
+OCR| OCR technology (Library/API selection pending)
+Map Services| OpenStreetMap
+Version Control| Git, GitHub
+Development Environment| Visual Studio Code
+
+Note: The technology stack is based on the initial project proposal. Final selections and implementation details will be updated during development.
+
 
 📌 Scope of the Project:
 
