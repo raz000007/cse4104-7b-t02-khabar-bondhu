@@ -217,6 +217,7 @@ Responsibilities:
 AI Service (system component): The AI service is not a user. It performs OCR, matching and chatbot tasks for the platform, and its results are always reviewed by a person where safety is involved.
 
 📌 5. Use Cases
+
 Each use case lists the actor, what the actor does, and how the system responds. The numbers match the use case diagram, which is submitted as a separate file.
 
 UC-01: Register Account
