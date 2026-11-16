@@ -175,7 +175,7 @@ Khabar-Bondhu/
 
 ├── CSE4104-7B-T02_Week01.zip
 
-      └── CSE4104-7B-T02_Week01.pdf
+      └── CSE4104-7B-T02_Week01.pdf(Team Details & Initial Idea)
 │
 
 ├── CSE4104-7B-T02_Week02.zip
