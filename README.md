@@ -336,6 +336,3 @@ System Response :	The system shows pending verifications, flagged items, active 
 
 
 🎯 All users, including the Admin, log in through UC-02 before using the other use cases. UC-07 is included in UC-09. UC-08 extends UC-07 when an item is flagged. UC-11 extends UC-12 when a donor asks for a suggestion.
-
-
-All users, including the Admin, log in through UC-02 before using the other use cases. UC-07 is included in UC-09. UC-08 extends UC-07 when an item is flagged. UC-11 extends UC-12 when a donor asks for a suggestion.
